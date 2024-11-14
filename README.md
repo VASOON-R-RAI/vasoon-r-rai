@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasoon-r-rai&label=Profile%20views&color=0e75b6&style=flat" alt="vasoon-r-rai" /> </p>
 
 - **👨‍💻 Computer Engineer**
-- 🌱 I’m currently learning **react**
+
 
 - 💬 Ask me about **ui/ux designing**
 
